@@ -1,24 +1,3 @@
-## 👋 Hi there, I'm Mayank Mehra
-
-![Profile Views](https://komarev.com/ghpvc/?username=MayankMehra&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/MayankMehra?label=Followers&style=flat)
-![Stars](https://img.shields.io/github/stars/MayankMehra?label=Stars&style=flat)
-
----
-
-## 🚀 About Me
-
-I’m a **MERN Stack & React Native Developer** focused on building **scalable, maintainable, and performance-oriented web & mobile applications**.  
-I enjoy working on **real-world product features**, backend APIs, and clean frontend architectures.
-
-- 🔭 Currently working on **PAS (Policy Administration System)** — an enterprise MERN application  
-- 🌱 Learning **Python** for backend services & automation  
-- 💬 Ask me about **React, React Native, Node.js, Express, MongoDB**
-- 🎯 Strong focus on **performance, scalability, and clean code**
-- 🤝 Open to opportunities in **product-based companies & fast-growing startups**
-
----
-
 <h1 align="center">Hi 👋, I'm Mayank Mehra</h1>
 <h3 align="center">MERN Stack & React Native Developer | India 🇮🇳</h3>
 
